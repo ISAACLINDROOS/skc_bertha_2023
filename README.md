@@ -1,9 +1,9 @@
 
 ![Vex-Logo](https://user-images.githubusercontent.com/21046313/202878537-3fba3406-1e7a-456d-a642-78b2c1b2eca7.jpg)
 
-# SKC 2022-2023 VEX Robotics
+# SKC 2022-2023 VEX Robotics BERTHA
 
-The Saint Kentigern College 2022-2023 VEX Robotics Official GitHub Repository
+The Saint Kentigern College 2022-2023 VEX Robotics BERTHA Official GitHub Repository
 
 [Building Instructions](https://www.vexrobotics.com/vex-downloads/builds)
 
